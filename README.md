@@ -83,7 +83,13 @@ As medidas nesse dashboard foram criadas para fornecer uma visão abrangente das
 
 ## Modelo de Dados
 <img align='left' width='60%' src='https://github.com/thiago-albuquerque/ContosoRetail/blob/main/Power%20BI/Design/Images/dataModel.png'/>
-TEXTO AQUI
+Foi criada do zero uma tabela personalizada, a DimCalendario.
+<br/>
+Com ela foi possível analisar as métricas de forma mais acertiva.
+<br/>
+Também foram criados relacionamentos que à princípio não foram reconhecidos pelo POWER BI no momento da importação do banco de dados.
+<br/>
+Resolvi manter as tabelas FactIntenetSales e a tabela DimDate do próprio banco de dados, no intuito de, se fosse preciso utlizá-las para análises futuras.
 
 <br/><br/><br/><br/><br/><br/>
 
