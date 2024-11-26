@@ -4,6 +4,7 @@
 <br/>
 
 ## Visão geral
+TEXTO AQUI
 
 <br/><br/><br/><br/>
 
@@ -34,7 +35,7 @@ Essa consulta agrupa as vendas por classe de produto, permitindo identificar qua
 <br/>
 * <strong>MÊS:</strong>
 Filtrada pelo ano de 2008, mostra a evolução das vendas mês a mês, permitindo identificar sazonalidades ou tendências.
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align='right' width='60%' src='https://github.com/thiago-albuquerque/ContosoRetail/blob/main/SQL/images/exp3.PNG'/>
 * <strong>TERRITÓRIO:</strong>
@@ -69,7 +70,7 @@ O gráfico de linha mostra a evolução das vendas ao longo dos meses, permitind
 * <strong>ANÁLISE POR CLASSE:</strong>
 O gráfico de pizza detalha a composição das vendas por classe de produto, permitindo avaliar a popularidade de cada classe.
 
-<br/>
+<br/><br/>
 
 ## Medidas
 <img align='right' width='60%' src='https://github.com/thiago-albuquerque/ContosoRetail/blob/main/Power%20BI/Design/Images/dashMeasureImg.png'/>
@@ -78,14 +79,11 @@ As medidas são um componente fundamental do Power BI, permitindo que os usuári
 Ao entender os princípios básicos das medidas e as funções DAX, podemos criar dashboards mais sofisticados e personalizados para atender às suas necessidades de análise de negócios.
 <br/>
 As medidas nesse dashboard foram criadas para fornecer uma visão abrangente das vendas ao longo do tempo e por diferentes dimensões (canal, categoria, território, etc.).
+<br/><br/>
 
 ## Modelo de Dados
-<img align='left' width='60%' src='https://github.com/thiago-albuquerque/ContosoRetail/blob/main/Power%20BI/Design/Images/dashMeasureImg.png'/>
-As medidas são um componente fundamental do Power BI, permitindo que os usuários transformem dados brutos em informações valiosas.
-<br/>
-Ao entender os princípios básicos das medidas e as funções DAX, podemos criar dashboards mais sofisticados e personalizados para atender às suas necessidades de análise de negócios.
-<br/>
-As medidas nesse dashboard foram criadas para fornecer uma visão abrangente das vendas ao longo do tempo e por diferentes dimensões (canal, categoria, território, etc.).
+<img align='left' width='60%' src='https://github.com/thiago-albuquerque/ContosoRetail/blob/main/Power%20BI/Design/Images/dataModel.png'/>
+TEXTO AQUI
 
 <br/><br/><br/><br/><br/><br/>
 
