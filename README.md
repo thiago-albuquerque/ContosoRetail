@@ -18,8 +18,6 @@ Posteriormente o dashboard foi construído utilizando Power BI e apresenta uma v
 * Modelagem de Dados
 * Criação de Dashboard
 
-<br/>
-
 ## Análise Exploratória
 Os scripts SQL apresentados realizam uma análise exploratória inicial de um conjunto de dados de vendas, com foco em métricas chave como:
 
@@ -46,13 +44,13 @@ Essa consulta agrupa as vendas por classe de produto, permitindo identificar qua
 <br/>
 - <strong>MÊS:</strong>
 Filtrada pelo ano de 2008, mostra a evolução das vendas mês a mês, permitindo identificar sazonalidades ou tendências.
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <img align='right' width='60%' src='https://github.com/thiago-albuquerque/ContosoRetail/blob/main/SQL/images/exp3.PNG'/>
 - <strong>TERRITÓRIO:</strong>
 Essa consulta busca identificar quais regiões geográficas estão gerando o maior volume de vendas.
 Ao identificar as regiões de maior e menor desempenho, as empresas podem tomar decisões mais assertivas para otimizar suas operações e aumentar seus lucros.
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## Modelo de Dados
 <img align='left' width='60%' src='https://github.com/thiago-albuquerque/ContosoRetail/blob/main/Power%20BI/Design/Images/dataModel.png'/>
@@ -64,7 +62,7 @@ Também foram criados relacionamentos que à princípio não foram reconhecidos 
 <br/>
 Resolvi manter as tabelas FactIntenetSales e a tabela DimDate do próprio banco de dados, no intuito de, se fosse preciso utlizá-las para análises futuras.
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Dashboard
 O dashboard de vendas apresentado oferece uma visão abrangente do desempenho da empresa ao longo dos anos de 2007 a 2009. 
@@ -104,7 +102,7 @@ Ao entender os princípios básicos das medidas e as funções DAX, podemos cria
 As medidas nesse dashboard foram criadas para fornecer uma visão abrangente das vendas ao longo do tempo e por diferentes dimensões (canal, categoria, território, etc.).
 
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Conclusão
 Este projeto demonstrou a importância da análise de dados para a tomada de decisões estratégicas. 
@@ -120,7 +118,7 @@ Os insights obtidos podem ser utilizados para otimizar as operações de vendas,
 
 * <strong>COMPARATIVOS:</strong> A comparação ano a ano (Year-over-Year, YoY) permite identificar tendências e variações nas métricas de vendas.
 
-<br/><br/>
+<br/>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
