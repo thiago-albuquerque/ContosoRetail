@@ -1,7 +1,4 @@
 # ContosoRetail
-* <a href='LINK'>Acesse o dashboard interativo aqui</a>
-
-<br/>
 
 ## Visão geral
 Este projeto teve como objetivo aprofundar a compreensão do desempenho de vendas da empresa ContosoRetail entre os anos de 2007 e 2009.
