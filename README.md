@@ -4,7 +4,8 @@
 <br/>
 
 ## Visão geral
-TEXTO AQUI
+Este é um projeto de análise utilizando o banco de dados ContosoRetailDW.
+
 
 <br/><br/><br/><br/>
 
@@ -94,7 +95,17 @@ Resolvi manter as tabelas FactIntenetSales e a tabela DimDate do próprio banco 
 <br/><br/><br/><br/><br/><br/>
 
 ## Conclusão
-TEXTO AQUI
+O dashboard apresentado oferece uma visão geral robusta do desempenho de vendas ao longo dos anos de 2007 a 2009. Através de uma variedade de visualizações (gráficos de barras, linhas, pizza e mapas), o dashboard permite aos usuários analisar as vendas por diferentes dimensões, como:
+<br/>
+* <strong>TEMPO:</strong> As vendas apresentaram um crescimento significativo de 2007 para 2009, com a margem também aumentando no mesmo período.
+<br/>
+* <strong>PRODUTO:</strong> A categoria de produtos e a classe de produtos são importantes drivers de receita, sendo possível identificar os produtos mais vendidos e suas respectivas margens.
+<br/>
+* <strong>CANAL:</strong> A análise por canal de vendas revela quais canais são mais eficazes em gerar receita.
+<br/>
+* <strong>GEOGRAFIA:</strong> O mapa mundial permite visualizar as vendas por região geográfica, identificando os mercados mais promissores e aqueles que precisam de maior atenção.
+<br/>
+* <strong>COMPARATIVOS:</strong> A comparação ano a ano (Year-over-Year, YoY) permite identificar tendências e variações nas métricas de vendas.
 
 <br/>
 
