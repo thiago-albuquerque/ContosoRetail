@@ -1,4 +1,5 @@
 # ContosoRetail
+* <a href="https://app.powerbi.com/view?r=eyJrIjoiNjM5MjQ5OWYtNzE2OS00MGU2LThhMTMtOGU0NjlmNmNiOWY2IiwidCI6IjZlNTRiMDEwLWRhOGItNDQzYi04OTQ4LTc1NDA3MGNhYTg3MSJ9">Acesse o dashboard interativo aqui</a>
 
 ## Visão geral
 Este projeto teve como objetivo aprofundar a compreensão do desempenho de vendas da empresa ContosoRetail entre os anos de 2007 e 2009.
