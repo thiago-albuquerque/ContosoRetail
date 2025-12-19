@@ -1,5 +1,6 @@
 
 # 📊 Análise de Desempenho de Vendas e Rentabilidade
+<img width="1366" height="768" alt="UX (1)" src="https://github.com/user-attachments/assets/d8eb59e5-7635-4a24-8c8a-82b0ccbfd3e8" />
 
 ## 📌 Visão Geral
 Este projeto analisa o desempenho de vendas, a rentabilidade, os canais, as promoções e a distribuição geográfica usando SQL e Power BI.
