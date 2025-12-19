@@ -24,7 +24,7 @@ O objetivo é transformar dados brutos de vendas em insights acionáveis ​​p
 - Quantidade de Vendas
 - Variação Anual (% e absoluta)
 
-## 📊 Ferramentas e Tecnologias
+## 🛠 Ferramentas e Tecnologias
 - SQL
 - Power BI
 - DAX
