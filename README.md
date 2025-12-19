@@ -1,5 +1,5 @@
 
-# 📊 Análise de Desempenho de Vendas
+# 📊 Análise de Desempenho de Vendas e Rentabilidade
 
 ## 📌 Visão Geral
 Este projeto analisa o desempenho de vendas, a rentabilidade, os canais, as promoções e a distribuição geográfica usando SQL e Power BI.
